@@ -72,6 +72,3 @@ createRoot(document.getElementById('root')).render(
   </StrictMode>,
 )
  
-
-// cd React-DashBoard
-// npm run dev
