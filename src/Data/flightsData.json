@@ -1,0 +1,84 @@
+
+     [
+    
+    {
+        "flight":"AI101",
+        "from" :"Hyderabad",
+        "to" :"New Delhi",
+        "status":"✅On Time",
+         "time": "10:00 AM"
+        },
+    {
+        "flight":"AI102",
+        "from" :"Hyderabad",
+        "to" :"Navi Mumbai",
+        "status":"⏰Delayed",
+        "time": "9:00 PM"
+        },
+    {
+        "flight":"AI103",
+        "from" :"New Delhi",
+        "to" :"Bangkok",
+        "status":"✅On Time",
+        "time": "6:20 PM"
+        },
+    {
+        "flight":"AI104",
+        "from" :"Kochi",
+        "to" :"Navi Mumbai",
+        "status":"⏰Delayed",
+        "time": "4:45 PM"
+        },
+    {
+        "flight":"AI105",
+        "from" :"Coimbatore",
+        "to" :"Navi Mumbai",
+        "status":"⏰Delayed",
+        "time": "2:30 PM"
+        },
+    {
+        "flight":"AI106",
+        "from" :"Navi Mumbai",
+        "to" :"Jaipur",
+        "status":"✅On Time",
+        "time": "1:00 PM"
+        },
+    {
+        "flight":"AI107",
+        "from" :"Navi Mumbai",
+        "to" :"Almaty",
+        "status":"⏰Delayed",
+        "time": "10:00 AM"
+    },
+    {
+        "flight":"AI108",
+        "from" :"Bangkok",
+        "to" :"New Delhi",
+        "status":"✅On Time",
+        "time": "10:00 AM"
+        },
+    {
+        
+        "flight":"AI109",
+        "from" :"Ahmedabad",
+        "to" :"Nagpur",
+        "status":"✅On Time",
+        "time": "9:30 AM"
+    },
+    {
+        
+        "flight":"AI110",
+        "from" :"Ahmedabad",
+        "to" :"Navi Mumbai",
+        "status":"⏰Delayed",
+        "time":"7:45 AM"
+        },
+    {
+        "flight":"AI111",
+        "from" :"Kolkata",
+        "to" :"Chennai",
+        "status":"✅On Time",
+        "time":"6:00 AM"
+        }  
+
+] 
