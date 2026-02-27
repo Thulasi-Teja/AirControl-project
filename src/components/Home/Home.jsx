@@ -9,13 +9,10 @@ function Home() {
        <div className='h-44.5 items-center justify-center text-center sm:ml-25 w-[90%]
        md:ml-15 ml-9 sm:text-lg text-lg  rounded-xl  text-black'>
         <h1 className='font-bold mb-4 mt-4 text-2xl'>AirControl</h1>
-         <p className='text-xl mb-6'>Flights typically cruise at 10-11 km altitude with 
-            outside temperatures around -51^\circ C, 
-            while at any moment, nearly 10,000 planes are in 
-            the air. Pilots often sleep during long-haul flights 
-            in dedicated, hidden bunks. Unique spots 
-            include Scotland'sBarra airport, where the runway is 
-            on the beach and tides dictate landing times.</p>
+         <p className='text-xl mb-6'>
+          AirControl is a modern airline booking web application that enables users to explore 
+          flight routes, check flight status, and book tickets easily. It provides a 
+          smooth and responsive user experience built with React and Tailwind CSS..</p>
       </div>
       <div>
          <img className='sm:mr-25 w-[90%] ml-9
